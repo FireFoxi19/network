@@ -1,4 +1,4 @@
-1 лаба. Запуск: gcc server.c -o server(./server)   gcc client.c -o client(./client)
+1 лаба. Запуск: g++ server.cpp -o server(./server)   g++ client.cpp -o client(./client)
 
 2 лаба. Запуск: gcc server.c -o server(./server)   gcc client.c -o client(./cleint)
 
